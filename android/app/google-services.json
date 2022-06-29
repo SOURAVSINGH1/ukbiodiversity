@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "74805694022",
+    "project_id": "ukflauraandfauna",
+    "storage_bucket": "ukflauraandfauna.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74805694022:android:4ffdeac8edd58c130f4447",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74805694022-fodp67ai4q55ub9lgat4dgta97vepplp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_application_2",
+            "certificate_hash": "af670824082bc48a048b4dd94342eea2c0d4f062"
+          }
+        },
+        {
+          "client_id": "74805694022-ccbcear0btce6s6r5kobfrkt86mdq0j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwzQVhnTsz4RULI4GXB5fqmgHPGUe5iLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74805694022-ccbcear0btce6s6r5kobfrkt86mdq0j5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
